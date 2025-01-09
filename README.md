@@ -6,5 +6,8 @@ Youtube Channels:
 
 Youtube Playlists:
 
+Programiz C Programming for Beginners
+    https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e
+
 Youtube Videos:
 
